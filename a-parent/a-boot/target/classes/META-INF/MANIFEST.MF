@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: a-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 1
+Implementation-Vendor-Id: com.system.a
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/a-parent/a-b
+ oot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
